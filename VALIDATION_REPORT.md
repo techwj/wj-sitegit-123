@@ -1,0 +1,88 @@
+# Validation Report - rental-makeover-plan
+
+Generated: 2026-06-04T11:35:33.778654
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Rental Makeover Plan
+- ✓ Article word count OK: Beginner Rental Makeover Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Rental Makeover Plan
+- ✓ Article word count OK: Beginner Rental Makeover Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Rental Makeover Plan
+- ✓ Article word count OK: Beginner Rental Makeover Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Rental Makeover Plan
+- ✓ Article word count OK: Common Mistakes in Beginner Rental Makeover Plan
+- ✓ Article word count OK: Beginner Rental Makeover Plan for Beginners
+- ✓ Article word count OK: Advanced Beginner Rental Makeover Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Rental Makeover Plan
+- ✓ Article word count OK: Advanced Rental Makeover Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Rental Makeover Plan
+- ✓ Article word count OK: Advanced Rental Makeover Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Rental Makeover Plan
+- ✓ Article word count OK: Advanced Rental Makeover Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Rental Makeover Plan
+- ✓ Article word count OK: Common Mistakes in Advanced Rental Makeover Plan
+- ✓ Article word count OK: Advanced Rental Makeover Plan for Beginners
+- ✓ Article word count OK: Advanced Advanced Rental Makeover Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Rental Makeover Plan Tips
+- ✓ Article word count OK: Rental Makeover Plan Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Rental Makeover Plan Tips
+- ✓ Article word count OK: Rental Makeover Plan Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Rental Makeover Plan Tips
+- ✓ Article word count OK: Rental Makeover Plan Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Rental Makeover Plan Tips
+- ✓ Article word count OK: Common Mistakes in Rental Makeover Plan Tips
+- ✓ Article word count OK: Rental Makeover Plan Tips for Beginners
+- ✓ Article word count OK: Advanced Rental Makeover Plan Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Rental Makeover Plan History
+- ✓ Article word count OK: Rental Makeover Plan History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Rental Makeover Plan History
+- ✓ Article word count OK: Rental Makeover Plan History Tips and Best Practices
+- ✓ Article word count OK: The History of Rental Makeover Plan History
+- ✓ Article word count OK: Rental Makeover Plan History in 2026: Current Trends
+- ✓ Article word count OK: Future of Rental Makeover Plan History
+- ✓ Article word count OK: Common Mistakes in Rental Makeover Plan History
+- ✓ Article word count OK: Rental Makeover Plan History for Beginners
+- ✓ Article word count OK: Advanced Rental Makeover Plan History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Rental Makeover Plan
+- ✓ Article word count OK: Trending Rental Makeover Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Rental Makeover Plan
+- ✓ Article word count OK: Trending Rental Makeover Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Rental Makeover Plan
+- ✓ Article word count OK: Trending Rental Makeover Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Rental Makeover Plan
+- ✓ Article word count OK: Common Mistakes in Trending Rental Makeover Plan
+- ✓ Article word count OK: Trending Rental Makeover Plan for Beginners
+- ✓ Article word count OK: Advanced Trending Rental Makeover Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Rental Makeover Plan Tutorials
+- ✓ Article word count OK: Rental Makeover Plan Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Rental Makeover Plan Tutorials
+- ✓ Article word count OK: Rental Makeover Plan Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Rental Makeover Plan Tutorials
+- ✓ Article word count OK: Rental Makeover Plan Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Rental Makeover Plan Tutorials
+- ✓ Article word count OK: Common Mistakes in Rental Makeover Plan Tutorials
+- ✓ Article word count OK: Rental Makeover Plan Tutorials for Beginners
+- ✓ Article word count OK: Advanced Rental Makeover Plan Tutorials Techniques
+- ✓ Ad configuration validated

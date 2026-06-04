@@ -1,0 +1,59 @@
+{
+  "siteId": "rental-makeover-plan",
+  "generatedAt": "2026-06-04T11:35:33.778958",
+  "categories": [
+    "beginner-rental-makeover-plan",
+    "advanced-rental-makeover-plan",
+    "tips-rental-makeover-plan",
+    "history-rental-makeover-plan",
+    "trending-rental-makeover-plan",
+    "tutorials-rental-makeover-plan"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-rental-makeover-plan",
+      "category_name": "Beginner Rental Makeover Plan"
+    },
+    {
+      "category_slug": "advanced-rental-makeover-plan",
+      "category_name": "Advanced Rental Makeover Plan"
+    },
+    {
+      "category_slug": "tips-rental-makeover-plan",
+      "category_name": "Rental Makeover Plan Tips"
+    },
+    {
+      "category_slug": "history-rental-makeover-plan",
+      "category_name": "Rental Makeover Plan History"
+    },
+    {
+      "category_slug": "trending-rental-makeover-plan",
+      "category_name": "Trending Rental Makeover Plan"
+    },
+    {
+      "category_slug": "tutorials-rental-makeover-plan",
+      "category_name": "Rental Makeover Plan Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "rental-makeover-plan",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Rental Makeover Plan Central",
+    "articles_per_row": 2
+  }
+}
